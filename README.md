@@ -64,4 +64,4 @@ comparison of efficientNet and ResNet on Intel image classification dataset (mul
 * EfficientNet-B0 is the more suitable model for small-to-medium datasets.
 * It offers faster training, better generalization, and lower computational cost.
 * ResNet50 remains a strong baseline but needs more data to shine.
-* This project demonstrates strong skills in training, evaluation, visualization, and model interpretability.
+* This project demonstrates strong in training, evaluation, visualization, and model interpretability.
