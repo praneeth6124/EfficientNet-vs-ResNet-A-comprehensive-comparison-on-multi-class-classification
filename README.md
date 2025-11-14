@@ -16,12 +16,12 @@ comparison of efficientNet and ResNet on Intel image classification dataset (mul
 ## Model Details
 
 ### EfficientNet-B0
-* ~5.3M parameters
+* ~4M parameters
 * Lightweight and fast
 * Performs extremely well on small/medium datasets
 
 ### ResNet50
-* ~25M parameters
+* ~23.5M parameters
 * Much deeper architecture
 * Requires more compute and tends to overfit on limited data
 
